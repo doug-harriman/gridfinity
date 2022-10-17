@@ -36,6 +36,7 @@ Here's a short list of materials used for these designs:
 * [3u-1x1](bins/3u-1x1) - Standard bin with magnet snap fit slots.  Note that there are also slots under the label surface to help keep stacked bins in place.  Also posted to [Thingiverse](https://www.thingiverse.com/thing:5541233).
 * [3u-1x1](bins/3u-1x1-split) - The 3u-1x1 bin with a central divider.
 * [Caliper Holder](bins/caliper-holder-2x1) - 2x1 caliper holder for my [digital calipers](https://www.amazon.com/REXBETI-Micrometer-Measuring-Millimeter-Protection/dp/B07C94MHJ4/ref=sr_1_3), inspired by [Zach Freedman's design](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216).  This holder uses a magnet to retain the spare battery and screwdriver.
+* [Superglue Tube Holder](bins/superglue-tube-holder) - Holds 3x 2g super glue tubes. 
 * [Base Seed](bins/bin-base-seed-2x1.SLDPRT) - This is a SolidWorks part for a simple 2x1 base with magnet snap fit features from which to design new bins.
 
 ## Bases
