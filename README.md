@@ -8,7 +8,17 @@ More derived designs based on the [Gridfinity](https://thangs.com/search/gridfin
 
 # Custom Designs
 
-These designs are differentiated from others in that they all use a snap fit design for magnet retention instead of glue.
+I *love* the magnets to provide a nice, secure mount for the Gridfinity bins to their bases, but  I really dislike using glue.  The key differentiator of these designs is that  I've tried to use snap fits or heat stakes where possible to avoid using glue.  
+
+Here's an example of my 3u-1x1 bin with snap fit slots for the magnets:
+
+![3u-1x1](bins/3u-1x1/3u-1x1-bottom.png)
+
+## Tools
+
+* ME-CAD: SolidWorks - I'm an engineer and have access to SolidWorks due to my job.  Thus all CAD is SolidWorks.  I try to provide STEP files for designs for import into other CAD packages.
+* Slicer - [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/).
+* 3D Printer - My main 3D printer is a [Creality Ender 3](https://www.creality.com/products/ender-3-3d-printer).
 
 ## Materials and Components
 
@@ -22,6 +32,11 @@ Here's a short list of materials used for these designs:
     *Note*: I had tried using the glass slide covers that some with the microscope slides.  However, they're only 0.2 mm thick, and thus very fragile. This is a safety issues, so they are not used. 
 
 ## Bins
+
+* [3u-1x1](bins/3u-1x1) - Standard bin with magnet snap fit slots.  Note that there are also slots under the label surface to help keep stacked bins in place.
+* [3u-1x1](bins/3u-1x1-split) - The 3u-1x1 bin with a central divider.
+* [Caliper Holder](bins/caliper-holder-2x1) - 2x1 caliper holder for my [digital calipers](https://www.amazon.com/REXBETI-Micrometer-Measuring-Millimeter-Protection/dp/B07C94MHJ4/ref=sr_1_3), inspired by [Zach Freedman's design](https://thangs.com/designer/ZackFreedman/3d-model/Gridfinity%20Caliper%20Holder-62216).  This holder uses a magnet to retain the spare battery and screwdriver.
+* [Base Seed](bins/bin-base-seed-2x1.SLDPRT) - This is a SolidWorks with a simple 2x1 base with magnet snap fit features for designing new bins off of.
 
 ## Bases
 
