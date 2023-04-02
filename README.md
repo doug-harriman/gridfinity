@@ -5,6 +5,7 @@ More derived designs based on the [Gridfinity](https://thangs.com/search/gridfin
 ## Useful Links
 
 * Curated [Gridfinity catalog](https://github.com/jeffbarr/gridfinity-catalog) by Jeff Barr.
+* [Gridfinity Specification](https://www.printables.com/model/417152-gridfinity-specification)
 
 # Custom Designs
 
