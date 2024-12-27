@@ -2,6 +2,12 @@
 
 More derived designs based on the [Gridfinity](https://thangs.com/search/gridfinity) system by [Zach Freedman](https://www.youtube.com/c/ZackFreedman/about) of [Voidstar Lab](https://www.voidstarlab.com/).
 
+> [!NOTE]
+> This project is no longer supported.  Using hex shaped holes for a press fit are both simpler and provide a stronger magnetic force.
+> 
+> I'm using the [FreeCAD Gridfinity Workbench](https://github.com/Stu142/FreeCAD-Gridfinity-Workbench) instead.
+>
+
 ## Useful Links
 
 * Curated [Gridfinity catalog](https://github.com/jeffbarr/gridfinity-catalog) by Jeff Barr.
